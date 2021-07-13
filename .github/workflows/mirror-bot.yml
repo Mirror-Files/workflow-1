@@ -10,7 +10,7 @@ env:
   # Change these values if you have forked it for your own works
   GitHubMail: "hyderabad0000001@gmail.com"
   GitHubName: "Mirror-Files" 
-  Branch: "main"
+  Branch: "master"
 
 jobs:
   build:
